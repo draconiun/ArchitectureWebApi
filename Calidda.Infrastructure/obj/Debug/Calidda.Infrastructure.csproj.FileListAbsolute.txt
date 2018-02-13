@@ -1,0 +1,16 @@
+C:\Users\aaron.mejia\source\repos\CALIDDA.ServicioCliente\Calidda.Infrastructure\bin\Debug\Calidda.Infrastructure.dll
+C:\Users\aaron.mejia\source\repos\CALIDDA.ServicioCliente\Calidda.Infrastructure\bin\Debug\Calidda.Infrastructure.pdb
+C:\Users\aaron.mejia\source\repos\CALIDDA.ServicioCliente\Calidda.Infrastructure\obj\Debug\Calidda.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\aaron.mejia\source\repos\CALIDDA.ServicioCliente\Calidda.Infrastructure\obj\Debug\Calidda.Infrastructure.dll
+C:\Users\aaron.mejia\source\repos\CALIDDA.ServicioCliente\Calidda.Infrastructure\obj\Debug\Calidda.Infrastructure.pdb
+C:\Users\Intel\Desktop\Calidda-master\Calidda.Infrastructure\bin\Debug\Calidda.Infrastructure.dll
+C:\Users\Intel\Desktop\Calidda-master\Calidda.Infrastructure\bin\Debug\Calidda.Infrastructure.pdb
+C:\Users\Intel\Desktop\Calidda-master\Calidda.Infrastructure\obj\Debug\Calidda.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\Intel\Desktop\Calidda-master\Calidda.Infrastructure\obj\Debug\Calidda.Infrastructure.dll
+C:\Users\Intel\Desktop\Calidda-master\Calidda.Infrastructure\obj\Debug\Calidda.Infrastructure.pdb
+C:\Users\aaron.mejia\Desktop\abc-master\Calidda.Infrastructure\bin\Debug\Calidda.Infrastructure.dll
+C:\Users\aaron.mejia\Desktop\abc-master\Calidda.Infrastructure\bin\Debug\Calidda.Infrastructure.pdb
+C:\Users\aaron.mejia\Desktop\abc-master\Calidda.Infrastructure\obj\Debug\Calidda.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\aaron.mejia\Desktop\abc-master\Calidda.Infrastructure\obj\Debug\Calidda.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\aaron.mejia\Desktop\abc-master\Calidda.Infrastructure\obj\Debug\Calidda.Infrastructure.dll
+C:\Users\aaron.mejia\Desktop\abc-master\Calidda.Infrastructure\obj\Debug\Calidda.Infrastructure.pdb

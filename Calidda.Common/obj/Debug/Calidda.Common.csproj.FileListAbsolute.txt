@@ -1,0 +1,17 @@
+C:\Users\aaron.mejia\source\repos\CALIDDA.ServicioCliente\Calidda.Common\bin\Debug\Calidda.Common.dll
+C:\Users\aaron.mejia\source\repos\CALIDDA.ServicioCliente\Calidda.Common\bin\Debug\Calidda.Common.pdb
+C:\Users\aaron.mejia\source\repos\CALIDDA.ServicioCliente\Calidda.Common\obj\Debug\Calidda.Common.csprojResolveAssemblyReference.cache
+C:\Users\aaron.mejia\source\repos\CALIDDA.ServicioCliente\Calidda.Common\obj\Debug\Calidda.Common.csproj.CoreCompileInputs.cache
+C:\Users\aaron.mejia\source\repos\CALIDDA.ServicioCliente\Calidda.Common\obj\Debug\Calidda.Common.dll
+C:\Users\aaron.mejia\source\repos\CALIDDA.ServicioCliente\Calidda.Common\obj\Debug\Calidda.Common.pdb
+C:\Users\Intel\Desktop\Calidda-master\Calidda.Common\bin\Debug\Calidda.Common.dll
+C:\Users\Intel\Desktop\Calidda-master\Calidda.Common\bin\Debug\Calidda.Common.pdb
+C:\Users\Intel\Desktop\Calidda-master\Calidda.Common\obj\Debug\Calidda.Common.csprojResolveAssemblyReference.cache
+C:\Users\Intel\Desktop\Calidda-master\Calidda.Common\obj\Debug\Calidda.Common.dll
+C:\Users\Intel\Desktop\Calidda-master\Calidda.Common\obj\Debug\Calidda.Common.pdb
+C:\Users\aaron.mejia\Desktop\abc-master\Calidda.Common\bin\Debug\Calidda.Common.dll
+C:\Users\aaron.mejia\Desktop\abc-master\Calidda.Common\bin\Debug\Calidda.Common.pdb
+C:\Users\aaron.mejia\Desktop\abc-master\Calidda.Common\obj\Debug\Calidda.Common.csprojResolveAssemblyReference.cache
+C:\Users\aaron.mejia\Desktop\abc-master\Calidda.Common\obj\Debug\Calidda.Common.csproj.CoreCompileInputs.cache
+C:\Users\aaron.mejia\Desktop\abc-master\Calidda.Common\obj\Debug\Calidda.Common.dll
+C:\Users\aaron.mejia\Desktop\abc-master\Calidda.Common\obj\Debug\Calidda.Common.pdb

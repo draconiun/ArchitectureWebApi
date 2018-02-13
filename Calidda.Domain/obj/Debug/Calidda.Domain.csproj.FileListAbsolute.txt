@@ -1,0 +1,15 @@
+C:\Users\Intel\Desktop\Calidda-master\Calidda.Domain\bin\Debug\Calidda.Domain.dll
+C:\Users\Intel\Desktop\Calidda-master\Calidda.Domain\bin\Debug\Calidda.Domain.pdb
+C:\Users\Intel\Desktop\Calidda-master\Calidda.Domain\obj\Debug\Calidda.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Intel\Desktop\Calidda-master\Calidda.Domain\obj\Debug\Calidda.Domain.dll
+C:\Users\Intel\Desktop\Calidda-master\Calidda.Domain\obj\Debug\Calidda.Domain.pdb
+C:\Users\aaron.mejia\Desktop\abc-master\Calidda.Domain\bin\Debug\Calidda.Domain.dll
+C:\Users\aaron.mejia\Desktop\abc-master\Calidda.Domain\bin\Debug\Calidda.Domain.pdb
+C:\Users\aaron.mejia\Desktop\abc-master\Calidda.Domain\obj\Debug\Calidda.Domain.csproj.CoreCompileInputs.cache
+C:\Users\aaron.mejia\Desktop\abc-master\Calidda.Domain\obj\Debug\Calidda.Domain.dll
+C:\Users\aaron.mejia\Desktop\abc-master\Calidda.Domain\obj\Debug\Calidda.Domain.pdb
+C:\Users\aaron.mejia\source\repos\CALIDDA.ServicioCliente\Calidda.Domain\bin\Debug\Calidda.Domain.dll
+C:\Users\aaron.mejia\source\repos\CALIDDA.ServicioCliente\Calidda.Domain\bin\Debug\Calidda.Domain.pdb
+C:\Users\aaron.mejia\source\repos\CALIDDA.ServicioCliente\Calidda.Domain\obj\Debug\Calidda.Domain.csproj.CoreCompileInputs.cache
+C:\Users\aaron.mejia\source\repos\CALIDDA.ServicioCliente\Calidda.Domain\obj\Debug\Calidda.Domain.dll
+C:\Users\aaron.mejia\source\repos\CALIDDA.ServicioCliente\Calidda.Domain\obj\Debug\Calidda.Domain.pdb
